@@ -1,8 +1,8 @@
 University Admission and Fees Management System
-Overview
+ Overview
 This project is a simple C console application that helps manage university admissions, semester fee payments, and hostel bookings. It is designed with beginners in mind and demonstrates basic concepts of C programming, including structures, functions, and user input handling.
 
-Features
+ Features
 Apply for B.Tech courses in different engineering disciplines.
 
 Pay semester fees after registration.
@@ -11,7 +11,7 @@ Book hostel rooms with mess and diet options.
 
 Menu-driven, easy-to-use interface.
 
-How to Run the Project
+ How to Run the Project
 Download or clone this repository.
 
 Open the file main.c using your favorite C compiler or IDE (such as CodeBlocks, Dev C++, GCC, etc.)
@@ -33,7 +33,7 @@ Choose 2 to pay semester fees (use the registration number provided during admis
 
 Choose 3 to book a hostel and select your preferences.
 
-Choose 0 to exit.
+ Choose 0 to exit.
 
 Concepts Demonstrated
 Structures: To store student, fee, and hostel details.
@@ -44,12 +44,12 @@ User Input: Using scanf and gets for data entry.
 
 Conditional Statements and Switch Case: For menu navigation.
 
-Notes for Beginners
+ Notes for Beginners
 The code is commented to explain each block.
 
 Feel free to modify student details or add new features.
 
 This project helps you practice basic C topics in a practical way.
 
-Credits
+ Credits
 Developed for educational purposes by Hanumaan.

@@ -1,6 +1,8 @@
 University Admission and Fees Management System
+
  Overview
 This project is a simple C console application that helps manage university admissions, semester fee payments, and hostel bookings. It is designed with beginners in mind and demonstrates basic concepts of C programming, including structures, functions, and user input handling.
+
 
  Features
 Apply for B.Tech courses in different engineering disciplines.
